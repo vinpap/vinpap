@@ -1,4 +1,9 @@
 ### Hi there 👋
+/play secret
+
+- 💻 AI developer in R&D
+- 🌍 Looking for uses of AI that truly have a positive impact
+- 👾 Reinforcement learning is life
 
 <!--
 **vinpap/vinpap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
