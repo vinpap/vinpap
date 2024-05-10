@@ -1,5 +1,5 @@
 ### Hi there 👋
-/play secret
+► /play secret
 
 - 💻 AI developer in R&D
 - 🌍 Looking for uses of AI that truly have a positive impact
