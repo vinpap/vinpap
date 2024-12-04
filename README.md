@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 AI developer in R&D
+- 💻 AI Developer in R&D
 - 🌍 Looking for uses of AI that truly have a positive impact
 - 👾 Reinforcement learning is life
 
